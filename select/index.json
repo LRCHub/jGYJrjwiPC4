@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Gambler",
+  "base_artist": "Kenny Rogers",
+  "createdAt": "2026-02-21T03:22:10.811273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/01_The_Gambler_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Gambler - 2006 Digital Remaster",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/02_The_Gambler_-_2006_Digital_Remaster_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Gambler (Remastered 2006)",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/03_The_Gambler_(Remastered_2006)_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "fun.",
+      "has_synced": true,
+      "path": "select/04_The_Gambler_fun..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Angel and the Gambler",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/05_The_Angel_and_the_Gambler_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/06_The_Gambler_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "St. John The Gambler",
+      "artist": "Townes Van Zandt",
+      "has_synced": true,
+      "path": "select/07_St._John_The_Gambler_Townes_Van_Zandt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/08_The_Gambler_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "The Both",
+      "has_synced": true,
+      "path": "select/09_The_Gambler_The_Both.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Xzibit feat. Anthony Hamilton",
+      "has_synced": true,
+      "path": "select/10_The_Gambler_Xzibit_feat._Anthony_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Gambler (feat. Anthony Hamilton) (Explicit Version)",
+      "artist": "Xzibit",
+      "has_synced": true,
+      "path": "select/11_The_Gambler_(feat._Anthony_Hamilton)_(Explicit_Version)_Xzibit.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/12_The_Gambler_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/13_The_Gambler_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/14_The_Gambler_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "DJ Ötzi feat. The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/15_The_Gambler_DJ_Ötzi_feat._The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Gambler",
+      "artist": "DJ Ötzi & The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/16_The_Gambler_DJ_Ötzi_&_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Gambler",
+      "artist": "Kenny Rogers",
+      "has_synced": false,
+      "path": "select/pl_01_The_Gambler_Kenny_Rogers.txt"
+    }
+  ]
+}
